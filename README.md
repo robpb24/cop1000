@@ -1,5 +1,7 @@
 # Welcome to COP 1000!
 
+[![Gitter chat](https://badges.gitter.im/valencia-cop1000/Lobby.png)](https://gitter.im/valencia-cop1000/Lobby)
+
 The schedule on this page will update throughout the semester with new assignments as they become available.
 
 Link              | Due by                | Topic
