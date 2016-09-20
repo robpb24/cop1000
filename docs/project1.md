@@ -19,17 +19,12 @@ This criteria is required for a grade of :100:.
 
 ### How to Turn In
 
-Create a new issue in [the class repository](https://github.com/cop1000/cop1000/issues/new?title=YOUR-USERNAME's Project 1 submission&label=project-1&body=Check each of the following boxes to ensure you can score :100:<p>- [ ] Bootstrap is used.) with the label `project-1`. 
+1. [Create a new personal repository](https://help.github.com/articles/create-a-repo/#create-a-new-repository-on-github) to store your web page, and title it `YOUR-USERNAME.github.io`.
+1. Upload the web site files of your project into the `master` branch of your new repository. GitHub will automatically build the site from the `master` branch and serve your web page at `https://YOUR-USERNAME.github.io`.
+1. Create a [new issue in the class repository](https://github.com/cop1000/cop1000/issues/new?title=YOUR-USERNAME's Project 1 submission&labels=project-1&body=Paste your web site's published URL here: %0A%0ACheck each of the following boxes to ensure you can score :100:%0A%0A- [ ] Bootstrap is used.%0A- [ ] Web site contains images.%0A- [ ] Web site contains text.%0A- [ ] Web site contains external links.%0A- [ ] All of the web site's content can be accessed just by scrolling.%0A- [ ] Users can navigate to different sections of the webpage by clicking buttons in the navigation.%0A- [ ] The web site contains original content.%0A- [ ] The web site doesn't contain inappropriate content.%0A- [ ] The web site is published to GitHub Pages.%0A- [ ] The link to the web site is submitted in the class repository.) (:arrow_left: use this link). You can also use your open issue to solicit feedback from your classmates.
 
+### Resources
 
-
-1. Create a web site that fulfills the following user stories:
-  - I can view a tribute page with an image and text.
-  - I can click on a link that will take me to an external website with further information on the topic.
-  - I can access all of the portfolio webpage's content just by scrolling.
-  - I can click different buttons that will take me to the portfolio creator's different social media pages.
-  - I can see thumbnail images of different projects the portfolio creator has built (if you haven't built any websites before, use placeholders.)
-  - I navigate to different sections of the webpage by clicking buttons in the navigation.
-1. Read about [GitHub Pages](https://pages.github.com), pay close attention to [the video](https://www.youtube.com/watch?time_continue=1&v=2MsN8gpT6jY) linked on the homepage and the part about [how it works](https://youtu.be/2MsN8gpT6jY?t=58s).
-1. Create a new personal repository to store your web page, and title it YOUR-USERNAME.github.io.
-1. Upload the files of your project into the `master` branch of your new repository. GitHub will automatically build the site on the `master` branch and serve your web page on `https://YOUR-USERNAME.github.io`.
+- Read about [GitHub Pages](https://pages.github.com), pay close attention to [the video](https://www.youtube.com/watch?time_continue=1&v=2MsN8gpT6jY) linked on the homepage and the part about [how it works](https://youtu.be/2MsN8gpT6jY?t=58s).
+- FreeCodeCamp's [tribute page](https://www.freecodecamp.com/challenges/build-a-tribute-page) and [personal portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) projects are similar in nature and can be used to practice and gain help.
+- Although you can build your web site completely from scratch, you're also invited to use a Bootstrap template, such as those from [Start Bootstrap](https://startbootstrap.com), [W3Schools](http://www.w3schools.com/bootstrap/bootstrap_templates.asp), and [ShapeBootstrap](https://shapebootstrap.net/free-templates). If you *do* use one of these templates, please make sure you attribute credit where credit is due.
