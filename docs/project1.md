@@ -19,7 +19,7 @@ This criteria is required for a grade of :100:.
 
 ### How to Turn In
 
-Create a new issue in [the class repository](https://github.com/cop1000/cop1000/issues/new?title=YOUR-USERNAME's Project 1 submission&label=project-1&body=Check each of the following boxes to ensure you can score :100:.\nGreet your classmates here! Change the title of your Issue to include a welcoming introduction to yourself. In this field, tell the class a little about yourself, like: your real name (at least your first name)) with the label `project-1`. 
+Create a new issue in [the class repository](https://github.com/cop1000/cop1000/issues/new?title=YOUR-USERNAME's Project 1 submission&label=project-1&body=Check each of the following boxes to ensure you can score :100: <br>Greet <br /> your classmates here! Change the title of your Issue to include a welcoming introduction to yourself. In this field, tell the class a little about yourself, like: your real name (at least your first name)) with the label `project-1`. 
 
 
 
