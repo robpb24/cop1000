@@ -10,6 +10,7 @@ The schedule on this page will update throughout the semester with new assignmen
 
 Link              | Due by                | Topic
 ---               | ---                   | ---
+[Week 5](/week-5) | Wed, Sep 28, 11:59pm  | Project on web basics
 [Week 4](/week-4) | Wed, Sep 21, 11:59pm  | Bootstrap, jQuery
 [Week 3](/week-3) | Wed, Sep 14, 11:59pm  | HTML5 and CSS
 [Week 2](/week-2) | Wed, Sep 7, 11:59pm   | Using GitHub and submitting assignments
