@@ -7,3 +7,5 @@
 1. Introduce yourself to the rest of the class. You can do so by starting a [new issue](https://github.com/cop1000/cop1000/issues/new?title=Replace this text with your name&body=Greet your classmates here! Change the title of your Issue to include a welcoming introduction to yourself. In this field, tell the class a little about yourself, like: your real name (at least your first name), a picture of yourself (you can drag and drop a picture from your computer onto the comment field), why you're interested in this class, and some of your personal interests. Keep an eye on your email - you'll receive notifications when someone responds or mentions you!&labels=introduction-discussion)
 1. Respond to at least one other classmate's issue.
 1. Read about [how to ask for help](/docs/help.md).
+1. Let Prof. Alfaro know your GitHub username by filling out [this survey](http://valenciacc.ut1.qualtrics.com/SE/?SID=SV_416ahwbHjDUas61) to ensure that you receive credit for work done on GitHub.
+1. Join our [Gitter chat room](https://gitter.im/valencia-cop1000/Lobby). Make sure you authenticate using your GitHub login. 
