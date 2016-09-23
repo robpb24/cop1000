@@ -7,8 +7,8 @@
 
 ## Course Information
 - Meets:	Online
-	- August 29-December 18, 2016
-- CRN:	14315, 14520
+	- October 3-December 18, 2016
+- CRN:	14415
 
 ## Course Description
 This course is a hands-on introduction to analyzing, designing, coding, and testing computer programs. Students will develop algorithms for problem solving with an emphasis on good programming practices. Students will use programming techniques including control structures, files management, arrays, and subprograms to design and code basic programs using a modern computer language. Other topics include working with data, number systems, and an introduction to object-oriented and event-driven programming. This course prepares students for software development courses in programming and web development. Students with a demonstrated background in computer programming (transcript, job experience, or waiver exam) may request to have this course waived as a pre-requisite to subsequent courses through the department office.
