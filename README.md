@@ -1,4 +1,7 @@
-# Welcome to COP 1000!
+# Welcome to COP 1000! (Full Term)
+
+:question: Are you in the late-start class that started on October 3? If so, [click here](https://github.com/cop1000/cop1000/tree/late-start#welcome-to-cop-1000-late-start-october-3) to go to your class.
+
 
 [![Gitter chat](https://badges.gitter.im/valencia-cop1000/Lobby.png)](https://gitter.im/valencia-cop1000/Lobby)
 
