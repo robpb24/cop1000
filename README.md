@@ -2,7 +2,7 @@
 
 ![](http://i.giphy.com/F4w8zTcuwntv2.gif)
 
-:question: Are you in the full-term class that started on August 29? If so, [click here](https://github.com/cop1000/cop1000#welcome-to-cop-1000) to go to your class.
+:question: Are you in the full-term class that started on August 29? If so, [click here](https://github.com/cop1000/cop1000#welcome-to-cop-1000-full-term) to go to your class.
 
 [![Gitter chat](https://badges.gitter.im/valencia-cop1000/Lobby.png)](https://gitter.im/valencia-cop1000/Lobby)
 
