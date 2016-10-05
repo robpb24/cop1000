@@ -14,5 +14,5 @@ The schedule on this page will update throughout the semester with new assignmen
 
 Link              | Due by                    | Topic
 ---               | ---                       | ---
-[Week 2](/week-2) | Wed, October 12, 11:59pm  | Course logistics
+[Week 2](/week-2) | Wed, October 12, 11:59pm  | Introduction to GitHub, HTML5, and CSS
 [Week 1](/week-1) | Wed, October 5, 11:59pm   | Course logistics
