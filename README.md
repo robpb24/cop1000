@@ -12,6 +12,7 @@ See issues labeled with [announcements](https://github.com/cop1000/cop1000/issue
 
 The schedule on this page will update throughout the semester with new assignments as they become available.
 
-Link              | Due by                | Topic
----               | ---                   | ---
-[Week 1](/week-1) | Wed, October 5, 11:59pm  | Course logistics
+Link              | Due by                    | Topic
+---               | ---                       | ---
+[Week 2](/week-2) | Wed, October 12, 11:59pm  | Course logistics
+[Week 1](/week-1) | Wed, October 5, 11:59pm   | Course logistics
