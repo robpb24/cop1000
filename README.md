@@ -14,6 +14,6 @@ The schedule on this page will update throughout the semester with new assignmen
 
 Link              | Due by                    | Topic
 ---               | ---                       | ---
-[Week 3](/week-3) | Wed, October 19, 11:59pm  | Introduction to GitHub, HTML5, and CSS
+[Week 3](/week-3) | Wed, October 19, 11:59pm  | Bootstrap, jQuery, Project on Web Basics
 [Week 2](/week-2) | Wed, October 12, 11:59pm  | Introduction to GitHub, HTML5, and CSS
 [Week 1](/week-1) | Wed, October 5, 11:59pm   | Course logistics
