@@ -15,6 +15,7 @@ The schedule on this page will update throughout the semester with new assignmen
 
 Link              | Due by                | Topic
 ---               | ---                   | ---
+[Week 8](/week-8) | Wed, Oct 19, 11:59pm  | JavaScript Koans project
 [Week 7](/week-7) | Wed, Oct 12, 11:59pm  | Finish JavaScript
 [Week 6](/week-6) | Wed, Oct 5, 11:59pm   | Basic JavaScript
 [Week 5](/week-5) | Wed, Sep 28, 11:59pm  | Project on web basics
